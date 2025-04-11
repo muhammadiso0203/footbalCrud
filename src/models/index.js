@@ -1,0 +1,6 @@
+export * from "./footbal.clubs.js"
+export * from "./match_fixtures.js"
+export * from "./players.js"
+export * from "./team.model.js"
+export * from "./tournament.groups.js"
+export * from "./tournaments.modul.js"
