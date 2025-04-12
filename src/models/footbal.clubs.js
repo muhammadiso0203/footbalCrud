@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { teamCollectionName} from "../common/constrants/db.js";
+import { footballCollectionName} from "../common/constrants/db.js";
 
 const football_clubs = new mongoose.Schema(
     {
